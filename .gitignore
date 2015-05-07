@@ -1,0 +1,12 @@
+STDAQ/x86_64*
+STDAQ/x86_64*/**
+*~
+**/*~
+**/*.history
+**/*.pyc
+.svn
+.svn/**
+**/.svn
+**/.svn/**
+**/*.root
+**/*.dst
